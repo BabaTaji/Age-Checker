@@ -30,16 +30,5 @@ function checkAge(){
 }
 
 
-console.log(checkAge(15))
+checkAge()
 
-/*Write a loop that makes seven calls to console.log to output the following
-triangle:
-#
-##
-###
-####
-#####
-######
-#######*/
-
-for(let number = 0; number = )
